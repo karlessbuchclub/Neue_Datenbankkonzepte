@@ -38,7 +38,7 @@ Holiday Hub ist eine Webanwendung, die es Benutzern ermöglicht, Reisebewertunge
 
 1. Klone das Repository:
     ```sh
-    git clone https://github.com/dein-benutzername/holiday-hub.git](https://github.com/karlessbuchclub/Neue_Datenbankkonzepte.git
+    git clone https://github.com/karlessbuchclub/Neue_Datenbankkonzepte.git
     ```
 
 2. Installiere die Abhängigkeiten für das Backend:
